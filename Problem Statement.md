@@ -2,33 +2,33 @@ Problem :- You are given a string comprising of letters (all lowercase). Your ta
 you have to reverse the string on the left till the middle letter(not included in reversing) of the alphabatical triplet. If there are multiple triplets then reverse the letters till the previous triplet (if any).
 
 
-**Input**
+**Input**<br>
 One string s which contains the given string of letters.
 
-**Output**
+**Output**<br>
 The reversed string accordingly.
 
-**Examples**
+**Examples**<br>
 1. 
-INPUT: 
+INPUT:<br> 
  s = uyiabcfg
 
-OUTPUT
+OUTPUT<br>
  aiyubcfg
 
 
-2.
-INPUT:
+2.<br>
+INPUT:<br>
  s = pliabcxldefz
 
-OUTPUT:
+OUTPUT:<br>
  ailpbdlxcefz
 
-3
-INPUT:
+3<br>
+INPUT:<br>
  s = abcxyz
  
-OUTPUT:
+OUTPUT:<br>
  abcxyz
 
 
