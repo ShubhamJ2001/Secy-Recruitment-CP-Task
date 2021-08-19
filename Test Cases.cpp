@@ -65,7 +65,7 @@ s.push_back("pliabcxldefz");
 s.push_back("abcxyz");
 s.push_back(s[0] + s[1]);
 s.push_back(s[0] + s[2]);
-//s.push_back
+
 reverse(s[0].begin(),s[0].end());
 s.push_back(s[0]);
 s.push_back(s[3] + s[0]);
