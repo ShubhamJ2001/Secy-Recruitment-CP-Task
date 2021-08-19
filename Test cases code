@@ -19,7 +19,7 @@ int ans(string s){
 
 ll i,l;
 l = s.size();
-ll t,t1,t2,m = -1,prev = 0;
+ll t,t1,t2,m = -1,prev;
 vector < char > ss(s.begin(),s.end());
 vector < char > c(s.begin(),s.end());
 for(i = 0 ; i < l ; i++){
